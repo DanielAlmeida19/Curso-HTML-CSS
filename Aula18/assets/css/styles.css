@@ -1,0 +1,15 @@
+p:nth-child(odd) {
+    background: rebeccapurple   ;
+}
+
+p:nth-child(even) {
+    background: darkturquoise   ;
+}
+
+p:nth-child(3n) {
+    background: darkolivegreen   ;
+}
+
+p:nth-child(3n+5) {
+    background: red   ;
+}

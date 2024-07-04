@@ -11,3 +11,10 @@
 - Tabelas em HTML
 - Formulários e Inputs HTML
 - Seletores por classes, tags e atibutos
+- Pseudo-classes: definição e principais exemplos
+- Pseudo-elementos: definição e principais exemplos
+- Heraça de propriedades
+- Float e Display, posicionamento
+- Cores HTML
+- Unidades de medida no CSS
+- Media queries e break-points
