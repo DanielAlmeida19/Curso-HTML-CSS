@@ -18,3 +18,5 @@
 - Cores HTML
 - Unidades de medida no CSS
 - Media queries e break-points
+- Recursos de borda
+- Flexbox
